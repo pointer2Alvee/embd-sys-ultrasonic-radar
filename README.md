@@ -10,7 +10,7 @@ The Ultrasonic Radar is an Arduino-based embedded project designed for detecting
 This project serves as a practical application of embedded systems, combining hardware components and software programming to achieve an interactive and visually engaging output.
 
 #### Use Case 
-- Object Detection and Range Measurement
+- Object Detection and Visualization
 #### Project Status
 - Current Version: V1.0
 
@@ -51,7 +51,7 @@ This project serves as a practical application of embedded systems, combining ha
 
 ## ⚙️Installation
 ```
-git clone https://github.com/pointer2Alvee/embd-sys-dual-axis-solar-tracker.git 
+git clone https://github.com/pointer2Alvee/embd-sys-ultrasonic-radar.git 
 cd your-repo  
 ```
 
