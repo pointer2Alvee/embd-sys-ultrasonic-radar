@@ -43,7 +43,7 @@ An Arduino based embedded system project, that is able to detect object and set 
 - Arduino IDE 🧩
 
 ## 🖇️Schematic
-<img src="images/schematic_diagram.jpg" width="370" height="370" />
+<img src="images/schematic.jpg" width="370" height="370" />
 
 ## ⚙️Installation
 ```
