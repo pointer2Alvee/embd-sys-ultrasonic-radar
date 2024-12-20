@@ -21,7 +21,7 @@ This project serves as a practical application of embedded systems, combining ha
 
 ## 🔍Demo
 <a href="https://youtu.be/Qor8kjsCJkA?si=7d1Mhc0KW4GQb3sF" target="_blank">
-  <img src="https://img.youtube.com/vi/YourVideoLink/hqdefault.jpg" alt="YouTube Video" width="390" height="270">
+  <img src="https://youtu.be/Qor8kjsCJkA?si=7d1Mhc0KW4GQb3sF.jpg" alt="YouTube Video" width="390" height="270">
 </a>
 
 ## 🚀Getting Started
