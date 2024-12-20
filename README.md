@@ -4,46 +4,50 @@
   <img src="images/proj_pic_3.jpg" alt="Image 3" style="width: 30%; margin: 10px;">
 </div>
 
-# 🤖Ultrasonic Radar
+# 📜Ultrasonic Radar
+The Ultrasonic Radar is an Arduino-based embedded project designed for detecting obstacles and visualizing their positions using radar-like graphics. This system utilizes ultrasonic waves to measure distances and identify objects within a specific range. The graphical representation of the radar system is powered by the Processing IDE, providing a real-time visualization of the detected objects on a screen.
 
-An Arduino based embedded system project, that is able to detect object and set alarm like a radar system.
+This project serves as a practical application of embedded systems, combining hardware components and software programming to achieve an interactive and visually engaging output.
+
 #### Use Case 
-- Maximizing Efficiency for solar charging
+- Object Detection and Range Measurement
 #### Project Status
 - Current Version: V1.0
 
 ## ✨Features
-- Dual Axis orientation
-- Arduino based
-- Charges a Li-ion Battery
+- Obstacle detection within a defined range
+- Visualizes radar graphics using Processing IDE
+- Arduino-based, portable design
 
 ## 🔍Demo
-<a href="https://www.youtube.com/watch?v=Qor8kjsCJkA" target="_blank">
-  <img src="https://img.youtube.com/vi/Qor8kjsCJkA/hqdefault.jpg" alt="YouTube Video" width="390" height="270">
+<a href="https://www.youtube.com/watch?v=YourVideoLink" target="_blank">
+  <img src="https://img.youtube.com/vi/YourVideoLink/hqdefault.jpg" alt="YouTube Video" width="390" height="270">
 </a>
 
 ## 🚀Getting Started
-- Knowledge Required : C/C++, sensor-modules, basic Circuiting & design
+- Knowledge Required : C/C++, sensors, servo motors, basic circuit design
 
 ## 🛠️Hardware Requirements
-- Arduino Nano, 1602 LCD 
-- Sensors : DHT11, Water, LDR sensors
-- SG90 Servo Motor, Solar Panel
-- Leds, Buzzer, Res, Cap, TP4056, 7805
-- Battery : 3.7v 18650 Li-ion, 9V alkaline
-- Wires, Soldering, Glue, Tape etc
+- Arduino Uno
+- HC-SR04 Ultrasonic Sensor
+- SG90 Servo Motor
+- LEDs, Buzzer
+- 4x AAA Battery Pack
+- Capacitors, Resistors
+- Breadboard, Wires, Glue, Tape
 
 ## 💻Software Requirements
 - Arduino IDE
-- C/C++ Programming Language
-- Necessary Libraries
+- Processing IDE
+- Servo.h Library
 
 ## 🛡️Tech Stack
 - C/C++ 💻
 - Arduino IDE 🧩
+- Processing IDE 📊
 
 ## 🖇️Schematic
-<img src="schematic.jpg" width="370" height="370" />
+<img src="images/schematic.jpg" width="370" height="370" />
 
 ## ⚙️Installation
 ```
@@ -52,13 +56,14 @@ cd your-repo
 ```
 
 ## 📖Usage
-Upload sketch via Arduino IDE for Embedded projects  
+- Upload the Arduino sketch via Arduino IDE.
+- Run the Processing IDE script for radar visualization.
 
 ## 🗺️Roadmap
-- [x]  Initial release with basic functionalities.
-- [ ]  Add support for IoT device integration.
-- [ ]  Develop mobile app interface for remote control.
-- [ ]  Enhance documentation and add tutorials.
+- [x] Initial release with obstacle detection and visualization.
+- [ ] Add Bluetooth module for remote monitoring.
+- [ ] Enhance radar graphics with customizable range and angles.
+- [ ] Improve energy efficiency for prolonged usage.
 
 ## 🤝Contributing
 Contributions are welcomed!
@@ -73,7 +78,6 @@ Contributions are welcomed!
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🙏Acknowledgements
-- Libraries-Frameworks Used : DHT11, Servo
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+- Libraries-Frameworks Used : Servo.h  
+- Special thanks to the open-source community for tools and resources.
 
