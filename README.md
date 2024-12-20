@@ -20,7 +20,7 @@ This project serves as a practical application of embedded systems, combining ha
 - Arduino-based, portable design
 
 ## 🔍Demo
-<a href="https://www.youtube.com/watch?v=YourVideoLink" target="_blank">
+<a href="https://youtu.be/Qor8kjsCJkA?si=7d1Mhc0KW4GQb3sF" target="_blank">
   <img src="https://img.youtube.com/vi/YourVideoLink/hqdefault.jpg" alt="YouTube Video" width="390" height="270">
 </a>
 
